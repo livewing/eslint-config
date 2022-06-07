@@ -1,0 +1,2 @@
+root: true
+extends: ./src/index.yml

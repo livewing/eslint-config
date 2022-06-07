@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "yaml.schemas": {
+    "https://json.schemastore.org/eslintrc.json": "/src/**/*.yml"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  }
+}
