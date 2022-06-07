@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/livewing/eslint-config/workflows/CI/badge.svg)](https://github.com/livewing/eslint-config/actions?query=workflow%3ACI)
 [![LICENSE](https://img.shields.io/github/license/livewing/eslint-config)](./LICENSE)
-[![npm](https://img.shields.io/npm/v/livewing/eslint-config)](https://www.npmjs.com/package/@livewing/eslint-config)
+[![npm](https://img.shields.io/npm/v/@livewing/eslint-config)](https://www.npmjs.com/package/@livewing/eslint-config)
 
 ESLint [shareable configs](https://eslint.org/docs/developer-guide/shareable-configs.html)
 
