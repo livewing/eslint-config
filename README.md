@@ -19,6 +19,7 @@ Create `.editorconfig` file in your project root.
 ```ini
 root = true
 
+[*]
 charset = utf-8
 end_of_line = lf
 indent_size = 2
