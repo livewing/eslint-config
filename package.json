@@ -1,7 +1,7 @@
 {
   "name": "@livewing/eslint-config",
   "description": "ESLint shareable configs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "livewing.net <dev@livewing.net> (https://livewing.net/)",
   "homepage": "https://github.com/livewing/eslint-config",
   "bugs": {
